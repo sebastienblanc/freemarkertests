@@ -1,0 +1,1 @@
+<@selector.selectWidget widgetType="${widgetType}"/>
